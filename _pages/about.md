@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in EECS at MIT advised by [Prof. Antonio Torralba](http://web.mit.edu/torralba/www/) and [Prof. Jacob Andreas](http://web.mit.edu/jda/www/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research goal is to understand what can be learnt from rich multimodal interactions (vision, touch and sounds) with objects (and people) in the world around us. I am also interested in  developing  systems that enable robots to efficiently abstract knowledge across tasks, reason, understand goals and reliably interact in the real world. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to this I was at Carnegie Mellon University for a year long research internship advised by [Prof. Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg/). Even before that I was an undergraduate student at the Indian Institute of Technology, Delhi. 
