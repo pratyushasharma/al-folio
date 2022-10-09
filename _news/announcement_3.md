@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-07-30 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Co-organizing Workshop on Language and Reinforcement Learning at NeurIPS 2022. Consider submitting!
